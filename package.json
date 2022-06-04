@@ -1,0 +1,30 @@
+{
+    "dependencies": {
+      "dotenv": "^16.0.1",
+      "express": "^4.18.1",
+      "formidable": "^2.0.1",
+      "html": "^1.0.0",
+      "multiparty": "^4.2.3",
+      "nodemailer": "^6.7.5",
+      "upper-case": "^2.0.2"
+    },
+    "name": "node_js-assignment-lawtonpeng",
+    "description": "[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7746599&assignment_repo_type=AssignmentRepo)",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/CTECH-IT/node_js-assignment-lawtonpeng.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/CTECH-IT/node_js-assignment-lawtonpeng/issues"
+    },
+    "homepage": "https://github.com/CTECH-IT/node_js-assignment-lawtonpeng#readme"
+  }
+  
